@@ -1,2 +1,2 @@
 # code
-code for a website
+this is my first github project
